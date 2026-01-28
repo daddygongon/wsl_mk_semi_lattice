@@ -1,0 +1,31 @@
+#+OPTIONS: ^:{}
+#+STARTUP: indent nolineimages overview num
+#+TITLE: template for org-file
+#+AUTHOR: Shigeto R. Nishitani
+#+EMAIL:     (concat "shigeto_nishitani@mac.com")
+#+LANGUAGE:  jp
+#+OPTIONS:   H:4 toc:t num:2
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+* <2026-02-11 Wed>
+- ssh, git, 
+  - githubはgroupにせんと，readだけのpermissionができない
+  - 全てpublicにしましょう．
+    - copyrightが危ないのはone driveへ
+- open, pull_request, new_terminal, tidy, chat_form
+
+* <2026-01-28 Wed>
+- python3, pip, matplotlibは入れとった
+- shunkuntypeをinstall
+  - Path, lat, permission, sudo, grep, cat, wc, execute
+  - 深谷はだいぶ指導
+- qpdf, openがない．．．
+- Usuiのpdfも使い用がない．．．
+
+* <2026-01-21 Wed>
+| [[file./_stack_code_260121/_stack_fish_260121/_stack_wsl_260121/wsl_mk_semi_lattice.003.png][mk_semi_lattice]]
+| [[file:./_stack_code_260121/_stack_fish_260121/wsl_mk_semi_lattice.004.png
+_stack_code_260121/wsl_mk_semi_lattice.005.png
+- wsl
+- mk_semi_lattice
+  - init, finalをinstall
