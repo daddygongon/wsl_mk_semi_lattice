@@ -1,0 +1,36 @@
+---
+:source_file: "/Users/bob/Documents/epub_books/Usui17_vocab_etymological_know.pdf"
+:target_dir: "./tmp"
+:toc:
+- :no:
+  :init: 1
+  :fin: 7
+  :head: preface
+- :no:
+  :init: 8
+  :fin: 19
+  :head: toc
+- :no:
+  :init: 20
+  :fin: 35
+  :head: attention
+- :no:
+  :init: 327
+  :fin: 351
+  :head: prefix
+- :no:
+  :init: 351
+  :fin: 356
+  :head: number
+- :no:
+  :init: 357
+  :fin: 381
+  :head: suffix
+- :no:
+  :init: 383
+  :fin: 408
+  :head: index
+- :no:
+  :init: 409
+  :fin: 
+  :head: cover

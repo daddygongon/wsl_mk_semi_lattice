@@ -1,31 +1,33 @@
 #+OPTIONS: ^:{}
 #+STARTUP: indent nolineimages overview num
-#+TITLE: template for org-file
+#+TITLE: make semi_lattice environment on wsl
 #+AUTHOR: Shigeto R. Nishitani
 #+EMAIL:     (concat "shigeto_nishitani@mac.com")
 #+LANGUAGE:  jp
 #+OPTIONS:   H:4 toc:t num:2
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/html-theme-readtheorg.setup
 
-* <2026-02-11 Wed>
-- ssh, git, 
-  - githubはgroupにせんと，readだけのpermissionができない
-  - 全てpublicにしましょう．
-    - copyrightが危ないのはone driveへ
-- open, pull_request, new_terminal, tidy, chat_form
+* wsl <2026-01-21 Wed>
+- LinuxはUserが自分で環境を構築
+  - for the geeks
 
-* <2026-01-28 Wed>
-- python3, pip, matplotlibは入れとった
-- shunkuntypeをinstall
-  - Path, lat, permission, sudo, grep, cat, wc, execute
-  - 深谷はだいぶ指導
-- qpdf, openがない．．．
-- Usuiのpdfも使い用がない．．．
+| [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.001.png]]
 
-* <2026-01-21 Wed>
-| [[file./_stack_code_260121/_stack_fish_260121/_stack_wsl_260121/wsl_mk_semi_lattice.003.png][mk_semi_lattice]]
-| [[file:./_stack_code_260121/_stack_fish_260121/wsl_mk_semi_lattice.004.png
-_stack_code_260121/wsl_mk_semi_lattice.005.png
-- wsl
-- mk_semi_lattice
-  - init, finalをinstall
+
+| [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.002.png]] | [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.003.png]] | [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.004.png]]
+| wsl | ruby | vscode
+
+
+* touch type <2026-01-28 Wed>
+- 覚えるコツは，声に出して読む
+  - 見るだけでは覚えない
+  - やってみせ，言って聞かせてさせてみて，褒めてやらねば人は動かじ
+    (山本五十六)
+- python3, pip, matplotlib
+  - install, permission, path, 
+  - cd, ls -lat, cat, wc
+- shunkuntype
+  - sudo gem install shunkuntype
+  - 視線動画
+
+* open <2026-02-11 Wed>
