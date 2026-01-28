@@ -11,10 +11,10 @@
 - LinuxはUserが自分で環境を構築
   - for the geeks
 
-| [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.001.png]]
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.001.png]]
 
 
-| [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.002.png]] | [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.003.png]] | [[file:./wsl_mk_semi_lattice/wsl_mk_semi_lattice.004.png]]
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.002.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.003.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.004.png]]
 | wsl | ruby | vscode
 
 
@@ -23,6 +23,12 @@
   - 見るだけでは覚えない
   - やってみせ，言って聞かせてさせてみて，褒めてやらねば人は動かじ
     (山本五十六)
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.005.png]]
+
+
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.006.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.007.png]] 
+| permission | shunkuntype
+
 - python3, pip, matplotlib
   - install, permission, path, 
   - cd, ls -lat, cat, wc
@@ -30,4 +36,9 @@
   - sudo gem install shunkuntype
   - 視線動画
 
-* open <2026-02-11 Wed>
+* ssh-github <2026-02-11 Wed>
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.008.png]]
+
+
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.009.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.010.png]] 
+| ssh        | git clone, pull
