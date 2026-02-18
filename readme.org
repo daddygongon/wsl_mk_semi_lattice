@@ -7,16 +7,19 @@
 #+OPTIONS:   H:4 toc:t num:2
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/html-theme-readtheorg.setup
 
-* wsl <2026-01-21 Wed>
-- LinuxはUserが自分で環境を構築
-  - for the geeks
+* happy ruby <2026-02-18 Wed>
+- path
+- mv, mkdir, code
+わかったかな．
 
-| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.001.png]]
+今週からRubyをはじめます．
+
+* ssh-github <2026-02-11 Wed>
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.008.png]]
 
 
-| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.002.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.003.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.004.png]]
-| wsl | ruby | vscode
-
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.009.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.010.png]] 
+| ssh        | git clone, pull
 
 * touch type <2026-01-28 Wed>
 - 覚えるコツは，声に出して読む
@@ -36,9 +39,14 @@
   - sudo gem install shunkuntype
   - 視線動画
 
-* ssh-github <2026-02-11 Wed>
-| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.008.png]]
+
+* wsl <2026-01-21 Wed>
+- LinuxはUserが自分で環境を構築
+  - for the geeks
+
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.001.png]]
 
 
-| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.009.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.010.png]] 
-| ssh        | git clone, pull
+| [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.002.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.003.png]] | [[file:./figs/wsl_mk_semi_lattice/wsl_mk_semi_lattice.004.png]]
+| wsl | ruby | vscode
+
